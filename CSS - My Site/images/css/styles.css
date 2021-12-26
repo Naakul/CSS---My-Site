@@ -1,0 +1,143 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family:'Brygada',serif;
+}
+h1{
+  margin-bottom:0;
+  font-family: 'Imperial Script', cursive;
+  height: 4rem;
+  font-size: 90px;
+  color:#66BFBF;
+}
+  p{
+  font-family: 'Brygada 1918', serif;
+  margin-top: 0;
+  }
+  span{text-decoration: underline;}
+.top-container{
+  position: relative;
+  background-color:#EEF2FF;
+
+  }
+
+a{
+  color:#11999E
+  display:inline-block;
+}
+a:hover{
+  color:#EAF6F6
+}
+
+  h2{
+    font-size: 2rem;
+    font-weight: normal;
+    color:#11999E
+
+
+  }
+  h3{font-size: 1.5em;
+     color:#516BEB}
+}
+
+.middle-container{
+  margin-top: 100px;
+  background-color: pink;
+  }
+.bottom-container{
+background-color: #66BFBF;
+line-height: 50px;
+}
+
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.my-image{
+  border-radius: 50%;
+  width:200px;
+  height:200px
+  }
+.skill-photo{
+  float: left;
+  width:200px;
+  height:180px;
+  width: 25%;
+  margin-right: 30px;
+  background-color: #A2D2FF;
+  border-radius: 50%;}
+
+}
+.sub-heading{
+  font-family: 'Oswald', sans-serif;
+  margin-top: 0;
+  margin-top: 25px}
+
+}
+.mountain-img{
+  margin-bottom: 30px;
+}
+.skill-row{
+  width:50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  }
+  .skill-img{
+    float: right;
+    width: 25%;
+    margin-left: 30px;}
+  .lineheight{
+    clear:left;
+  }
+  .lineheight1{
+    clear: right;
+  }
+  .lastparagraph{
+  color:#EAF6F6;
+
+  }
+  .footer-link{
+    padding-left: 25px;
+    text-decoration: none;
+    }
+      .btn {
+        background: #11cdd4;
+        background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+        background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: Georgia;
+        color: #fff7ff;
+        font-size: 25px;
+        padding: 10px;
+        text-decoration: none;
+        width: 10%;
+        margin: 0 auto 0px;
+        
+      }
+
+      .btn:hover {
+        background: #30e3cb;
+        background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+        text-decoration: none;
+      }
+.contact-me{
+  width: 40%;
+  margin: 40px auto 0;
+}
